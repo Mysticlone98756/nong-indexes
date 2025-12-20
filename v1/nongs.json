@@ -3,13 +3,18 @@
   "name": "Mystic's custom song list",
   "id": "mystic-custom-list",
   "description": "Mystic's Custom Jukebox Song List",
-  "songs": [
-    {
-      "name": "Posthumous Forgiveness",
-      "artist": "Tame Impala",
-      "ids": [219635],
-      "source": "host",
-      "url": "https://raw.githubusercontent.com/Mysticlone98756/nong-indexes/main/v1/songs/Posthumous%20Forgiveness-Tame%20Impala.mp3"
+  "nongs": {
+    "youtube": {},
+    "local": {},
+    "hosted": {
+      "posthumous-forgiveness-tame-impala": {
+        "name": "Posthumous Forgiveness",
+        "artist": "Tame Impala",
+        "startOffset": 0,
+        "url": "https://raw.githubusercontent.com/Mysticlone98756/nong-indexes/main/v1/songs/Posthumous%20Forgiveness-Tame%20Impala.mp3",
+        "songs": [219635],
+        "verifiedLevelIDs": []
+      }
     }
-  ]
+  }
 }
