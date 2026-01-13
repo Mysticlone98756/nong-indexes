@@ -50,8 +50,21 @@
 				"verifiedLevelIDs": [
 					82851022
       			]
+			},
+			"let-it-happen": {
+				"name": "Let It Happen",
+				"artist": "Tame Impala",
+				"startOffset": 0,
+				"url": "https://audio.spreadplane.org/v1/songs/Let%20It%20Happen%20-%20Tame%20Impala.mp3",
+				"songs": [
+					125200
+				],
+				"verifiedLevelIDs": [
+					
+				]
 			}
 		}
 	}
 }
+
 
